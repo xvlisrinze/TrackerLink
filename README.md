@@ -16,3 +16,10 @@ How To Use
 ```
 node tracker.js
 ```
+Export to Your Tools
+```
+Change
+StartTracker();
+To
+module.exports = { StartTracker };
+```
