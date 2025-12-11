@@ -1,4 +1,8 @@
 # TrackerLink
 Track And Get Victim Device Information
 > Info
-> s
+> Using Java Script
+> Install Before Using
+```
+pkg install nodejs
+``
