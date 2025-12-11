@@ -4,7 +4,7 @@ Track And Get Victim Device Information
 > Using Java Script
 > Install Before Using
 ```
-pkg install nodejs
+apt install nodejs
 ```
 ***Feature***
 <br>
