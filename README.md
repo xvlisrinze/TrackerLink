@@ -29,6 +29,7 @@ npm i express chalk localtunnel
 <br>
 How To Use
 ```
+cd TrackerLink
 node tracker.js
 ```
 # Export to Your Tools
