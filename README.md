@@ -7,6 +7,7 @@ gitclone https://github.com/xvlisrinze/TrackerLink.git
 > Using Java Script
 > Install Before Using
 ```
+apt install git
 apt install nodejs
 ```
 > Install Depence Modules
