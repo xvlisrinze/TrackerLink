@@ -1,4 +1,3 @@
-require('../config.js');
 var express = require('express');
 var { exec } = require('child_process');
 var chalk = require('chalk').default;
