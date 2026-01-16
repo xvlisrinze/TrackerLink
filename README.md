@@ -6,6 +6,10 @@ Track And Get Victim Device Information
 ```
 apt install nodejs
 ```
+> Install Depence Modules
+```
+npm i express chalk localtunnel
+```
 ***Feature***
 <br>
 [+] Export Support
