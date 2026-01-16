@@ -2,7 +2,7 @@
 Track And Get Victim Device Information
 > INSTALL SCRIPT
 ```
-gitclone https://github.com/xvlisrinze/TrackerLink.git
+git clone https://github.com/xvlisrinze/TrackerLink.git
 ```
 > Using Java Script
 > Install Before Using
